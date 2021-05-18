@@ -14,6 +14,7 @@
 		E83EBBC4264C661F00D85B5D /* ColeccionDeJuegosCancino.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E83EBBC2264C661F00D85B5D /* ColeccionDeJuegosCancino.xcdatamodeld */; };
 		E83EBBC6264C662000D85B5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E83EBBC5264C662000D85B5D /* Assets.xcassets */; };
 		E83EBBC9264C662000D85B5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E83EBBC7264C662000D85B5D /* LaunchScreen.storyboard */; };
+		E83EBBD1264C700100D85B5D /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83EBBD0264C700100D85B5D /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E83EBBC5264C662000D85B5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E83EBBC8264C662000D85B5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E83EBBCA264C662000D85B5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E83EBBD0264C700100D85B5D /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E83EBBC7264C662000D85B5D /* LaunchScreen.storyboard */,
 				E83EBBCA264C662000D85B5D /* Info.plist */,
 				E83EBBC2264C661F00D85B5D /* ColeccionDeJuegosCancino.xcdatamodeld */,
+				E83EBBD0264C700100D85B5D /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegosCancino;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E83EBBD1264C700100D85B5D /* JuegosViewController.swift in Sources */,
 				E83EBBBE264C661F00D85B5D /* ViewController.swift in Sources */,
 				E83EBBC4264C661F00D85B5D /* ColeccionDeJuegosCancino.xcdatamodeld in Sources */,
 				E83EBBBA264C661F00D85B5D /* AppDelegate.swift in Sources */,
